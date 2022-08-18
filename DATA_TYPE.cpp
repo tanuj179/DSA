@@ -28,4 +28,5 @@ int main(){
 */
     unsigned int a=52;//positve number only
     cout<<a<<endl;
+  
 }
